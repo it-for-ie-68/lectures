@@ -1,14 +1,14 @@
-$folder = "public\lectures\T01 - Introduction"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T01 - Introduction"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "public\lectures\T02 - HTML"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T02 - HTML"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "public\lectures\T03 - CSS 1"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T03 - CSS 1"
+# npm run html $folder
+# npm run pdf $folder
 
 $folder = "public\lectures\T04 - CSS 2"
 npm run html $folder
