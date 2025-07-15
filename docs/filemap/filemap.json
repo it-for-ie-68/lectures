@@ -27,7 +27,7 @@
       "name": "filemap.json",
       "parentId": "0-2814749767949373",
       "size": 20428,
-      "modDate": "2025-07-08T23:25:32.891Z",
+      "modDate": "2025-07-08T23:27:28.308Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\filemap\\filemap.json"
     },
     "0-8444249301924184": {
@@ -410,7 +410,7 @@
       "name": "T05.html",
       "parentId": "0-7318349394839853",
       "size": 123119,
-      "modDate": "2025-07-08T23:24:49.722Z",
+      "modDate": "2025-07-15T21:52:14.545Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T05 - JavaScript\\T05.html"
     },
     "0-6755399442141328": {
@@ -426,7 +426,7 @@
       "name": "T05.pdf",
       "parentId": "0-7318349394839853",
       "size": 220184,
-      "modDate": "2025-07-08T23:24:54.384Z",
+      "modDate": "2025-07-15T21:52:18.883Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T05 - JavaScript\\T05.pdf"
     },
     "0-6192449488723354": {
@@ -474,7 +474,7 @@
       "name": "T06.html",
       "parentId": "0-6192449488723354",
       "size": 114137,
-      "modDate": "2025-07-08T23:24:57.263Z",
+      "modDate": "2025-07-15T21:52:21.502Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T06 - Typescript\\T06.html"
     },
     "0-5910974512019193": {
@@ -489,8 +489,8 @@
       "id": "0-5629499535308545",
       "name": "T06.pdf",
       "parentId": "0-6192449488723354",
-      "size": 175065,
-      "modDate": "2025-07-08T23:25:01.900Z",
+      "size": 175072,
+      "modDate": "2025-07-15T21:52:25.494Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T06 - Typescript\\T06.pdf"
     },
     "0-5629499535308546": {
@@ -529,7 +529,7 @@
       "name": "T07.html",
       "parentId": "0-5629499535308546",
       "size": 139290,
-      "modDate": "2025-07-08T23:25:04.809Z",
+      "modDate": "2025-07-15T21:52:27.997Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T07 - DOM\\T07.html"
     },
     "0-5910974512019225": {
@@ -544,8 +544,8 @@
       "id": "0-6192449488729882",
       "name": "T07.pdf",
       "parentId": "0-5629499535308546",
-      "size": 287028,
-      "modDate": "2025-07-08T23:25:09.434Z",
+      "size": 287026,
+      "modDate": "2025-07-15T21:52:32.211Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T07 - DOM\\T07.pdf"
     },
     "0-2251799814529040": {
