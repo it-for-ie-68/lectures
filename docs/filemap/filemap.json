@@ -27,7 +27,7 @@
       "name": "filemap.json",
       "parentId": "0-2814749767949373",
       "size": 20428,
-      "modDate": "2025-07-15T21:57:40.370Z",
+      "modDate": "2025-07-22T23:00:29.267Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\filemap\\filemap.json"
     },
     "0-8444249301924184": {
@@ -35,16 +35,82 @@
       "name": "lectures",
       "isDir": true,
       "childrenIds": [
+        "0-5629499534421565",
         "0-7318349395087826",
         "0-2533274791238835",
         "0-2533274791238862",
         "0-2533274791238894",
         "0-7318349394839853",
         "0-6192449488723354",
-        "0-5629499535308546"
+        "0-5629499535308546",
+        "0-90071992547617820",
+        "0-5629499534421614"
       ],
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures",
       "parentId": "0-2814749767949366"
+    },
+    "0-5629499534421565": {
+      "id": "0-5629499534421565",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "0-6192449487842880",
+        "0-6755399441263442",
+        "0-5629499534421572",
+        "0-7318349394685528",
+        "0-7318349394685545",
+        "0-21955048183639660"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img",
+      "parentId": "0-8444249301924184"
+    },
+    "0-6192449487842880": {
+      "id": "0-6192449487842880",
+      "name": "list.jpg",
+      "parentId": "0-5629499534421565",
+      "size": 12005,
+      "modDate": "2025-07-22T23:04:24.205Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img\\list.jpg"
+    },
+    "0-6755399441263442": {
+      "id": "0-6755399441263442",
+      "name": "react1.excalidraw",
+      "parentId": "0-5629499534421565",
+      "size": 52138,
+      "modDate": "2025-07-22T23:04:24.205Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img\\react1.excalidraw"
+    },
+    "0-5629499534421572": {
+      "id": "0-5629499534421572",
+      "name": "react1.png",
+      "parentId": "0-5629499534421565",
+      "size": 126997,
+      "modDate": "2025-07-22T23:04:24.205Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img\\react1.png"
+    },
+    "0-7318349394685528": {
+      "id": "0-7318349394685528",
+      "name": "react2.excalidraw",
+      "parentId": "0-5629499534421565",
+      "size": 17827,
+      "modDate": "2025-07-22T23:04:24.207Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img\\react2.excalidraw"
+    },
+    "0-7318349394685545": {
+      "id": "0-7318349394685545",
+      "name": "react2.png",
+      "parentId": "0-5629499534421565",
+      "size": 83892,
+      "modDate": "2025-07-22T23:04:24.207Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img\\react2.png"
+    },
+    "0-21955048183639660": {
+      "id": "0-21955048183639660",
+      "name": "vdom.png",
+      "parentId": "0-5629499534421565",
+      "size": 7461,
+      "modDate": "2025-07-22T23:04:24.207Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\img\\vdom.png"
     },
     "0-7318349395087826": {
       "id": "0-7318349395087826",
@@ -547,6 +613,142 @@
       "size": 287026,
       "modDate": "2025-07-15T21:52:32.211Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T07 - DOM\\T07.pdf"
+    },
+    "0-90071992547617820": {
+      "id": "0-90071992547617820",
+      "name": "T08 - React",
+      "isDir": true,
+      "childrenIds": [
+        "0-10977524091923586",
+        "0-4503599627578629",
+        "0-9851624185081170",
+        "0-9007199254949336"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React",
+      "parentId": "0-8444249301924184"
+    },
+    "0-10977524091923586": {
+      "id": "0-10977524091923586",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "0-10696049115212950",
+        "0-11258999068634316",
+        "0-10414574138502350",
+        "0-16325548649426142",
+        "0-12384898975476972",
+        "0-4785074604289276"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img",
+      "parentId": "0-90071992547617820"
+    },
+    "0-10696049115212950": {
+      "id": "0-10696049115212950",
+      "name": "list.jpg",
+      "parentId": "0-10977524091923586",
+      "size": 12005,
+      "modDate": "2025-07-22T23:04:24.205Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img\\list.jpg"
+    },
+    "0-11258999068634316": {
+      "id": "0-11258999068634316",
+      "name": "react1.excalidraw",
+      "parentId": "0-10977524091923586",
+      "size": 52138,
+      "modDate": "2025-07-22T23:04:24.205Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img\\react1.excalidraw"
+    },
+    "0-10414574138502350": {
+      "id": "0-10414574138502350",
+      "name": "react1.png",
+      "parentId": "0-10977524091923586",
+      "size": 126997,
+      "modDate": "2025-07-22T23:04:24.205Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img\\react1.png"
+    },
+    "0-16325548649426142": {
+      "id": "0-16325548649426142",
+      "name": "react2.excalidraw",
+      "parentId": "0-10977524091923586",
+      "size": 17827,
+      "modDate": "2025-07-22T23:04:24.207Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img\\react2.excalidraw"
+    },
+    "0-12384898975476972": {
+      "id": "0-12384898975476972",
+      "name": "react2.png",
+      "parentId": "0-10977524091923586",
+      "size": 83892,
+      "modDate": "2025-07-22T23:04:24.207Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img\\react2.png"
+    },
+    "0-4785074604289276": {
+      "id": "0-4785074604289276",
+      "name": "vdom.png",
+      "parentId": "0-10977524091923586",
+      "size": 7461,
+      "modDate": "2025-07-22T23:04:24.207Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\img\\vdom.png"
+    },
+    "0-4503599627578629": {
+      "id": "0-4503599627578629",
+      "name": "T08.html",
+      "parentId": "0-90071992547617820",
+      "size": 121476,
+      "modDate": "2025-07-22T23:08:09.493Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\T08.html"
+    },
+    "0-9851624185081170": {
+      "id": "0-9851624185081170",
+      "name": "T08.md",
+      "parentId": "0-90071992547617820",
+      "size": 3968,
+      "modDate": "2025-07-22T23:06:27.151Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\T08.md"
+    },
+    "0-9007199254949336": {
+      "id": "0-9007199254949336",
+      "name": "T08.pdf",
+      "parentId": "0-90071992547617820",
+      "size": 335828,
+      "modDate": "2025-07-22T23:08:14.041Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T08 - React\\T08.pdf"
+    },
+    "0-5629499534421614": {
+      "id": "0-5629499534421614",
+      "name": "T09 - React Basics",
+      "isDir": true,
+      "childrenIds": [
+        "0-8162774324817525",
+        "0-16888498602847876",
+        "0-5910974511132297"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T09 - React Basics",
+      "parentId": "0-8444249301924184"
+    },
+    "0-8162774324817525": {
+      "id": "0-8162774324817525",
+      "name": "T09.html",
+      "parentId": "0-5629499534421614",
+      "size": 124551,
+      "modDate": "2025-07-22T23:08:16.830Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T09 - React Basics\\T09.html"
+    },
+    "0-16888498602847876": {
+      "id": "0-16888498602847876",
+      "name": "T09.md",
+      "parentId": "0-5629499534421614",
+      "size": 4165,
+      "modDate": "2025-07-22T23:04:24.209Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T09 - React Basics\\T09.md"
+    },
+    "0-5910974511132297": {
+      "id": "0-5910974511132297",
+      "name": "T09.pdf",
+      "parentId": "0-5629499534421614",
+      "size": 191456,
+      "modDate": "2025-07-22T23:08:20.975Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T09 - React Basics\\T09.pdf"
     },
     "0-2251799814529040": {
       "id": "0-2251799814529040",
