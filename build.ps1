@@ -14,25 +14,25 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T05 - JavaScript"
-npm run html $folder
-npm run pdf $folder
-
-$folder = "public\lectures\T06 - TypeScript"
-npm run html $folder
-npm run pdf $folder
-
-$folder = "public\lectures\T07 - DOM"
-npm run html $folder
-npm run pdf $folder
-
-# $folder = "public\lectures\T08 - React"
+# $folder = "public\lectures\T05 - JavaScript"
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "public\lectures\T09 - React Basics"
+# $folder = "public\lectures\T06 - TypeScript"
 # npm run html $folder
 # npm run pdf $folder
+
+# $folder = "public\lectures\T07 - DOM"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T08 - React"
+npm run html $folder
+npm run pdf $folder
+
+$folder = "public\lectures\T09 - React Basics"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "public\lectures\T10 - Data Fetching"
 # npm run html $folder
