@@ -26,8 +26,8 @@
       "id": "0-12384898975386824",
       "name": "filemap.json",
       "parentId": "0-2814749767949373",
-      "size": 31209,
-      "modDate": "2025-08-12T22:29:01.429Z",
+      "size": 32466,
+      "modDate": "2025-08-12T23:07:03.874Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\filemap\\filemap.json"
     },
     "0-8444249301924184": {
@@ -821,8 +821,7 @@
       "name": "T11 - Database",
       "isDir": true,
       "childrenIds": [
-        "0-19703248370553070",
-        "0-18858823440118830",
+        "0-7881299349169841",
         "0-2814749767950056",
         "0-2814749767950061",
         "0-2814749767950064"
@@ -830,36 +829,38 @@
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database",
       "parentId": "0-8444249301924184"
     },
+    "0-7881299349169841": {
+      "id": "0-7881299349169841",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "0-19703248370553070"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\img",
+      "parentId": "0-2814749767950053"
+    },
     "0-19703248370553070": {
       "id": "0-19703248370553070",
-      "name": "image-1.png",
-      "parentId": "0-2814749767950053",
+      "name": "pnpm_build.png",
+      "parentId": "0-7881299349169841",
       "size": 51608,
       "modDate": "2025-08-12T22:44:31.514Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\image-1.png"
-    },
-    "0-18858823440118830": {
-      "id": "0-18858823440118830",
-      "name": "image.png",
-      "parentId": "0-2814749767950053",
-      "size": 31772,
-      "modDate": "2025-08-12T22:43:38.388Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\image.png"
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\img\\pnpm_build.png"
     },
     "0-2814749767950056": {
       "id": "0-2814749767950056",
       "name": "T11.html",
       "parentId": "0-2814749767950053",
-      "size": 123712,
-      "modDate": "2025-08-12T23:06:46.020Z",
+      "size": 123721,
+      "modDate": "2025-08-12T23:52:45.772Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\T11.html"
     },
     "0-2814749767950061": {
       "id": "0-2814749767950061",
       "name": "T11.md",
       "parentId": "0-2814749767950053",
-      "size": 4084,
-      "modDate": "2025-08-12T23:03:46.360Z",
+      "size": 4093,
+      "modDate": "2025-08-12T23:52:41.307Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\T11.md"
     },
     "0-2814749767950064": {
@@ -867,7 +868,7 @@
       "name": "T11.pdf",
       "parentId": "0-2814749767950053",
       "size": 224505,
-      "modDate": "2025-08-12T23:06:50.194Z",
+      "modDate": "2025-08-12T23:52:50.046Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T11 - Database\\T11.pdf"
     },
     "0-2251799814529040": {
