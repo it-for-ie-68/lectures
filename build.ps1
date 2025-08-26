@@ -42,6 +42,11 @@ $folder = "public\lectures\T11 - Database"
 npm run html $folder
 npm run pdf $folder
 
+$folder = "public\lectures\T12 - Router"
+npm run html $folder
+npm run pdf $folder
+
+
 # $folder = "public\lectures\T13 - Tensorflow"
 # npm run html $folder
 # npm run pdf $folder
