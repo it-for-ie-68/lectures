@@ -25,8 +25,8 @@
       "id": "0-8444249301472975",
       "name": "filemap.json",
       "parentId": "0-3659174697623232",
-      "size": 33768,
-      "modDate": "2025-08-26T06:11:15.310Z",
+      "size": 33451,
+      "modDate": "2025-09-10T06:20:28.896Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\filemap\\filemap.json"
     },
     "0-4785074604465924": {
@@ -889,24 +889,24 @@
       "id": "0-1125899907300371",
       "name": "T13.html",
       "parentId": "0-36873221949541200",
-      "size": 117806,
-      "modDate": "2025-09-10T06:19:47.242Z",
+      "size": 119631,
+      "modDate": "2025-09-10T06:28:20.163Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T13 - ANN\\T13.html"
     },
     "0-4222124651274577": {
       "id": "0-4222124651274577",
       "name": "T13.md",
       "parentId": "0-36873221949541200",
-      "size": 3139,
-      "modDate": "2025-09-10T06:18:16.492Z",
+      "size": 3472,
+      "modDate": "2025-09-10T06:28:12.683Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T13 - ANN\\T13.md"
     },
     "0-1970324837593095": {
       "id": "0-1970324837593095",
       "name": "T13.pdf",
       "parentId": "0-36873221949541200",
-      "size": 327126,
-      "modDate": "2025-09-10T06:19:50.639Z",
+      "size": 343792,
+      "modDate": "2025-09-10T06:28:23.501Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T13 - ANN\\T13.pdf"
     }
   }
