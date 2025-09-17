@@ -46,13 +46,14 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T13 - ANN"
+# $folder = "public\lectures\T13 - ANN"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T14 - Vision"
 npm run html $folder
 npm run pdf $folder
 
-# $folder = "public\lectures\T14 - Image Classification"
-# npm run html $folder
-# npm run pdf $folder
 
 # $folder = "public\lectures\T15 - LLM"
 # npm run html $folder

@@ -26,7 +26,7 @@
       "name": "filemap.json",
       "parentId": "0-3659174697623232",
       "size": 33451,
-      "modDate": "2025-09-10T06:20:28.896Z",
+      "modDate": "2025-09-10T06:28:32.991Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\filemap\\filemap.json"
     },
     "0-4785074604465924": {
@@ -47,7 +47,8 @@
         "0-844424930575297",
         "0-1688849861798592",
         "0-12384898976330580",
-        "0-36873221949541200"
+        "0-36873221949541200",
+        "0-2251799814303754"
       ],
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures",
       "parentId": "0-20547673300261370"
@@ -908,6 +909,151 @@
       "size": 343792,
       "modDate": "2025-09-10T06:28:23.501Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T13 - ANN\\T13.pdf"
+    },
+    "0-2251799814303754": {
+      "id": "0-2251799814303754",
+      "name": "T14 - Vision",
+      "isDir": true,
+      "childrenIds": [
+        "0-1970324837593174",
+        "0-1970324837593159",
+        "0-1970324837593171",
+        "0-1970324837593172"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision",
+      "parentId": "0-4785074604465924"
+    },
+    "0-1970324837593174": {
+      "id": "0-1970324837593174",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "0-11540474045757998",
+        "0-6473924464966222",
+        "0-25614222881290864",
+        "0-12384898975890040",
+        "0-2251799814592403",
+        "0-2251799814592405",
+        "0-2251799814592406",
+        "0-2251799814592410",
+        "0-2251799814592414",
+        "0-2814749768013764",
+        "0-2533274791303310"
+      ],
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img",
+      "parentId": "0-2251799814303754"
+    },
+    "0-11540474045757998": {
+      "id": "0-11540474045757998",
+      "name": "conv.jpg",
+      "parentId": "0-1970324837593174",
+      "size": 98712,
+      "modDate": "2025-09-17T01:49:29.715Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\conv.jpg"
+    },
+    "0-6473924464966222": {
+      "id": "0-6473924464966222",
+      "name": "dog.jpg",
+      "parentId": "0-1970324837593174",
+      "size": 275237,
+      "modDate": "2025-09-17T01:49:29.718Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\dog.jpg"
+    },
+    "0-25614222881290864": {
+      "id": "0-25614222881290864",
+      "name": "imagenet_error.jpg",
+      "parentId": "0-1970324837593174",
+      "size": 168511,
+      "modDate": "2025-09-17T01:49:29.720Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\imagenet_error.jpg"
+    },
+    "0-12384898975890040": {
+      "id": "0-12384898975890040",
+      "name": "imagenet_pics.png",
+      "parentId": "0-1970324837593174",
+      "size": 13206234,
+      "modDate": "2025-09-17T01:49:29.762Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\imagenet_pics.png"
+    },
+    "0-2251799814592403": {
+      "id": "0-2251799814592403",
+      "name": "mobilenet.png",
+      "parentId": "0-1970324837593174",
+      "size": 100916,
+      "modDate": "2025-09-17T01:49:29.764Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\mobilenet.png"
+    },
+    "0-2251799814592405": {
+      "id": "0-2251799814592405",
+      "name": "model_huggingface.png",
+      "parentId": "0-1970324837593174",
+      "size": 60083,
+      "modDate": "2025-09-17T01:49:29.765Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\model_huggingface.png"
+    },
+    "0-2251799814592406": {
+      "id": "0-2251799814592406",
+      "name": "obj_detection.png",
+      "parentId": "0-1970324837593174",
+      "size": 640520,
+      "modDate": "2025-09-17T01:49:29.768Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\obj_detection.png"
+    },
+    "0-2251799814592410": {
+      "id": "0-2251799814592410",
+      "name": "paste-1758065207724.png",
+      "parentId": "0-1970324837593174",
+      "size": 937408,
+      "modDate": "2025-09-17T01:49:29.772Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\paste-1758065207724.png"
+    },
+    "0-2251799814592414": {
+      "id": "0-2251799814592414",
+      "name": "paste-1758065400283.png",
+      "parentId": "0-1970324837593174",
+      "size": 33403,
+      "modDate": "2025-09-17T01:49:29.772Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\paste-1758065400283.png"
+    },
+    "0-2814749768013764": {
+      "id": "0-2814749768013764",
+      "name": "paste-1758066440490.png",
+      "parentId": "0-1970324837593174",
+      "size": 22337,
+      "modDate": "2025-09-17T01:49:29.773Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\paste-1758066440490.png"
+    },
+    "0-2533274791303310": {
+      "id": "0-2533274791303310",
+      "name": "paste-1758066739300.png",
+      "parentId": "0-1970324837593174",
+      "size": 37445,
+      "modDate": "2025-09-17T01:49:29.773Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\img\\paste-1758066739300.png"
+    },
+    "0-1970324837593159": {
+      "id": "0-1970324837593159",
+      "name": "T14.html",
+      "parentId": "0-2251799814303754",
+      "size": 137994,
+      "modDate": "2025-09-17T02:15:41.520Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\T14.html"
+    },
+    "0-1970324837593171": {
+      "id": "0-1970324837593171",
+      "name": "T14.md",
+      "parentId": "0-2251799814303754",
+      "size": 6534,
+      "modDate": "2025-09-17T02:14:14.893Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\T14.md"
+    },
+    "0-1970324837593172": {
+      "id": "0-1970324837593172",
+      "name": "T14.pdf",
+      "parentId": "0-2251799814303754",
+      "size": 9544019,
+      "modDate": "2025-09-17T02:15:46.049Z",
+      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T14 - Vision\\T14.pdf"
     }
   }
 }
