@@ -50,14 +50,13 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T14 - Vision"
-npm run html $folder
-npm run pdf $folder
-
-
-# $folder = "public\lectures\T15 - LLM"
+# $folder = "public\lectures\T14 - Vision"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "public\lectures\T15 - NLP"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "public\lectures\T16 - Blockchain 101"
 # npm run html $folder
