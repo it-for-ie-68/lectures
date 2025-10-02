@@ -58,17 +58,17 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T16 - Blockchain 101"
+# $folder = "public\lectures\T16 - Blockchain 101"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T17 - Smart Contract"
 npm run html $folder
 npm run pdf $folder
 
-# $folder = "public\lectures\T17 - Smart Contract"
-# npm run html $folder
-# npm run pdf $folder
-
-# $folder = "public\lectures\T18 - SC Applications"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "public\lectures\T18 - SC Applications"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "public\lectures\T19 - DApp"
 # npm run html $folder
