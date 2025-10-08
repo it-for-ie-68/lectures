@@ -25,8 +25,8 @@
       "id": "0-9007199254894288",
       "name": "filemap.json",
       "parentId": "0-3659174697623232",
-      "size": 62338,
-      "modDate": "2025-10-08T03:05:07.247Z",
+      "size": 55604,
+      "modDate": "2025-10-08T03:42:47.039Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\filemap\\filemap.json"
     },
     "0-4785074604465924": {
@@ -1359,7 +1359,7 @@
       "name": "T17.html",
       "parentId": "0-9570149208821670",
       "size": 117627,
-      "modDate": "2025-10-08T03:35:47.975Z",
+      "modDate": "2025-10-08T03:46:08.553Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T17 - Smart Contract\\T17.html"
     },
     "0-11821949022240868": {
@@ -1374,8 +1374,8 @@
       "id": "0-7599824371581189",
       "name": "T17.pdf",
       "parentId": "0-9570149208821670",
-      "size": 650365,
-      "modDate": "2025-10-08T03:35:57.320Z",
+      "size": 650362,
+      "modDate": "2025-10-08T03:46:11.784Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T17 - Smart Contract\\T17.pdf"
     },
     "0-4503599628029880": {
@@ -1432,7 +1432,7 @@
       "name": "T18.html",
       "parentId": "0-4503599628029880",
       "size": 111541,
-      "modDate": "2025-10-08T03:35:59.109Z",
+      "modDate": "2025-10-08T03:46:13.540Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T18 - SC Applications\\T18.html"
     },
     "0-7318349394886191": {
@@ -1448,7 +1448,7 @@
       "name": "T18.pdf",
       "parentId": "0-4503599628029880",
       "size": 197167,
-      "modDate": "2025-10-08T03:36:02.408Z",
+      "modDate": "2025-10-08T03:46:27.893Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T18 - SC Applications\\T18.pdf"
     },
     "0-1125899907577189": {
@@ -1467,8 +1467,8 @@
       "id": "0-1125899907577190",
       "name": "T19.html",
       "parentId": "0-1125899907577189",
-      "size": 113203,
-      "modDate": "2025-06-25T05:00:06.495Z",
+      "size": 122397,
+      "modDate": "2025-10-08T03:46:29.809Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T19 - DApp\\T19.html"
     },
     "0-3096224744226375": {
@@ -1483,8 +1483,8 @@
       "id": "0-1688849860998504",
       "name": "T19.pdf",
       "parentId": "0-1125899907577189",
-      "size": 94201,
-      "modDate": "2025-06-25T05:00:06.496Z",
+      "size": 203275,
+      "modDate": "2025-10-08T03:46:33.233Z",
       "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie-68\\lectures\\public\\lectures\\T19 - DApp\\T19.pdf"
     }
   }
